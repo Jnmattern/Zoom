@@ -1,0 +1,28 @@
+{
+  "uuid": "8bb0dcd3-d954-44cd-bbcd-d936114f4844",
+  "shortName": "Zoom",
+  "longName": "Zoom",
+  "companyName": "Jnm",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_BG",
+        "file": "images/bg.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_MASK",
+        "file": "images/mask.png"
+	  }
+    ]
+  }
+}
